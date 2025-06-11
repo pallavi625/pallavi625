@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=6000&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello!+%F0%9F%98%89;I'm+Pallavi+)](https://git.io/typing-svg)
 <!--- <h1 align="center" style='color: purple;'>Hi there 👋 I'm Awanish</h1> -->
 <div id="header" align="center">
-  <img href="https://stock.adobe.com/search/images?k=panda+baby" width="200"/>
+  <img src="./panda.jpg" width="300" height="300"/>
 </div>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="2px" style="max-width: 100%;"></a>
 <br><br>
